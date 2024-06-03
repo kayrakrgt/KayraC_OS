@@ -1,0 +1,14 @@
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\bin\Debug\net8.0\kayracOs.exe
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\bin\Debug\net8.0\kayracOs.deps.json
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\bin\Debug\net8.0\kayracOs.runtimeconfig.json
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\bin\Debug\net8.0\kayracOs.dll
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\bin\Debug\net8.0\kayracOs.pdb
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.AssemblyInfoInputs.cache
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.AssemblyInfo.cs
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.csproj.CoreCompileInputs.cache
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.dll
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\refint\kayracOs.dll
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.pdb
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\kayracOs.genruntimeconfig.cache
+C:\Users\alper\Masaüstü\projects\kayracOs\kayracOs\obj\Debug\net8.0\ref\kayracOs.dll
